@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MTNTripPlanner.Services.Hikers.Core\MTNTripPlanner.Services.Hikers.Core.csproj" />
+    </ItemGroup>
+
+</Project>
